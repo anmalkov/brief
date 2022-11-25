@@ -1,6 +1,6 @@
 **Principle:** Confidentiality and Integrity  
 **Affected Asset:** Inbound Internet connections  
-**Threat:** As a result of the vulnerability of not encrypting data, plaintext data could be intercepted during transit via a man-in-the-middle (MitM) attack. Sensitive data could be exposed or tampered to allow further exploits.
+**Threat:** As a result of the vulnerability of not encrypting data, plaintext data could be intercepted during transit via a man-in-the-middle (MitM), downgrade or cross-protocol attacks attack. Sensitive data could be exposed or tampered to allow further exploits.
 
 **Mitigation:**
 

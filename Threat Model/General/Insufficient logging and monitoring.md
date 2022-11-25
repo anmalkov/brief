@@ -15,3 +15,8 @@ At a minimum, the following events should be logged.
 4. Security validation failures (e.g., input validation or authorization check failures)
 5. Application errors and system events
 6. Application and system startups and shutdowns, as well as logging initialization
+
+- Implement a monitoring solution such as Azure Monitor or Log Analytics to monitor the web applications, security events, analytics, and workloads, respectively.
+- If incident management is a concern of the customer, implement Microsoft Sentinel to act as the SIEM and make incident response more efficient.
+- Use an alerting system to provide notifications when things need direct action.
+- Install an Azure Monitor agent on critical VMs to allow ingestion of events into Azure Monitor.

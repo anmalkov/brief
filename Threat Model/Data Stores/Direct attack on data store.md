@@ -9,6 +9,3 @@ All customer or confidential data must be encrypted before being written to non-
 1. Use approved algorithms. This includes AES-256, AES-192, or AES-128.
 2. Leverage SQL TDE whenever available.
 3. Encryption must be enabled before writing data to storage.
-
-- Applies to all data stores on the diagram.
-- Azure SQL Database encrypt data at rest by default using Transparent Data Encryption.

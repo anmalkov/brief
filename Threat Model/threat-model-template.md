@@ -1,8 +1,8 @@
-# Security Plan – [tm-project-name]
+# Security Plan - [tm-project-name]
 
 ## Preamble
 
-The curators of this document cannot certify/attest to security of an architecture nor code – the below is intended to help identify and track design decisions and outstanding work related to discussed attack vectors identified during the engagement and intended to provide guidance to CSE dev crews.
+The curators of this document cannot certify/attest to security of an architecture nor code - the below is intended to help identify and track design decisions and outstanding work related to discussed attack vectors identified during the engagement and intended to provide guidance to CSE dev crews.
 
 This template is intended to help assess security risk within customer engagement and produce backlog recommendations to mitigate that risk. Security recommendations can be used in conjunction with those suggested via [BRIE (https://aka.ms/BRIE)](https://aka.ms/BRIE).
 

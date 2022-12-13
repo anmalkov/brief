@@ -14,11 +14,11 @@ Please find the Threat Model for [tm-project-name] below. This document shows th
 
 ### Architecture Diagram
 
-![Architecture Diagram](./architecture-diagram.png)
+[tm-image-arch]
 
 ### Data Flow Diagram
 
-![Data flow diagram](./data-flow-diagram.png)
+[tm-image-flow]
 
 #### Data Flow Attributes
 
@@ -28,7 +28,7 @@ Please find the Threat Model for [tm-project-name] below. This document shows th
 
 ### Threat Map
 
-![Threat map](./threat-map.png)
+[tm-image-map]
 
 ### Threat Properties
 
